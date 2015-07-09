@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>MyHtml.html</title>
+	
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="this is my page">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+	<style type="text/css">
+		.cut{
+			/*width:80px;对宽度的定义,根据情况修改*/
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			}	
+	</style>
+  </head>
+  
+  <body>
+    This is my JSP page. <br>
+    
+    <p>
+    aaaaaaaaaaa<br>
+       aaaaaaaaaaa<br>
+    aaaaaaaaaaa<br>
+    aaaaaaaaaaa<br>
+    aaaaaaaaaaa<br>
+    </p>
+        <p>
+    <a href="http://www.baidu.com" disabled="ture" onclick="alert(1)">aaaaaaaaaaaaaaa</a>
+    <input type="button"  disabled ="disabled " value="aaaa" onclick="alert(1)">
+    </p>
+        <p>
+    aaaaaaaaaaaaaaa
+    </p>
+    <textarea>
+    asdfasdfsadf
+    asdfasdfadsf
+    </textarea>
+    
+    <select MULTIPLE="MULTIPLE" style:"border-bottom:1px solid #A2D6FA;">
+    	<option style:"border-bottom:1px solid #A2D6FA;">aaaaaa</option>
+    	<option>aaaaaa</option>
+    	<option>aaaaaa</option>
+    	<option>aaaaaa</option>
+    	
+    </select>
+    
+    <table  style="width:100%" border="1">
+    	<tr>
+    		<td width="50%">
+    			<span class="cut" style="width:200px">
+    			sssssssssssssssssss sssssssss dddddddddddddddddddd dddddddddddddddddddd
+    			</span>
+    		</td>
+    		<td width="50%">
+    		dddddddddddddd
+    		</td>
+    	</tr>
+    	<tr>
+    		<td class="cut" style="width:400px">
+    			sssssssssssssssssss sssssssss dddddddddddddddddddd dddddddddddddddddddd
+    		</td>
+    		<td width="50%">
+    		dddddddddddddd
+    		</td>
+    	</tr>    
+    </table>
+    
+    
+  </body>
+</html>

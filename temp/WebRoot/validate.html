@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <title>部门履职成绩展示1</title>
+    <meta http-equiv=Content-Type content="text/html; charset=GBK">
+    <meta http-equiv="pragma" content="no-cache"></meta>
+	<meta http-equiv="cache-control" content="no-cache"></meta>
+	<link rel="stylesheet" type="text/css" href="../bjcnccss/edit.css"></link>
+	<script type="text/javascript" src="../bjcncjs/generic.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/lib/jEasy.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/de_common.js"></script>
+	<style type="text/css">
+	.tab_on{
+		float:left;
+		width:107px;
+		height:25px;
+		font-size:14px;
+		font-weight:bold;
+		padding-top:8px;
+		background:url('../images/chulidan-bg1.gif');
+	}
+	.tab_off{
+		float:left;
+		width:107px;
+		height:25px;
+		font-size:14px;
+		font-weight:bold;
+		padding-top:8px;
+		background:url('../images/chulidan-bg3.gif');
+	}
+	
+	</style>
+ 
+ 	<script type="text/javascript">
+	var gYearNo='';
+	var gQuarter='';
+ 	function showQuarter(showType,isChange){
+ 		alert(1);
+ 	}
+	
+ 	function exportExl(showType){
+ 		openWindow("bmlz.do?method=exportDeptScore&yearNo="+gYearNo+"&quarter="+gQuarter+"&showType="+showType);
+ 	}
+	
+ 	</script>
+  </head>
+  <body>
+    <center>
+      <div class="edit_main_div">
+         <!----功能按钮区域 开始---->
+        <div class="edit_control_div">
+          <table cellspacing="0" cellpadding="0" border="0">
+            <tr>
+               <td><a onMouseOver="MM_swapImage('daochu','','../bjcncimages/an_dc_on.gif',1)" onMouseOut="MM_swapImgRestore()" href="#" onclick="exportExl('1')"><img height="45" src="../bjcncimages/an_dc.gif" width="50" border="0" name="daochu"></a></td>
+            </tr>
+          </table>
+        </div>
+
+      
+        <div style="text-align: right;">
+			<select onChange=''  width=''  id='year_no'><option  value='2009' >2009年</option><option  value='2010' >2010年</option><option  value='2011' selected>2011年</option><option  value='2012' >2012年</option><option  value='2013' >2013年</option></select>
+			<script type="text/javascript">
+				$('year_no').select('');
+			</script>
+			
+        <select id="quarter">
+        	<option value="1">第一季度</option>
+        	<option value="2">第二季度</option>
+        	<option value="3">第三季度</option>
+        	<option value="4">第四季度</option>
+        </select>
+        
+        <script type="text/javascript">
+			$('quarter').select('');
+		</script>
+		
+        <input type="button" value="查看" onclick="showQuarter('1',true)">
+        </div>
+          <!----功能按钮区域 结束---->
+         <!----内容区域 开始---->
+        <div class="edit_title_div">年季度部门履职成绩展示</div>
+		<div class="tab_on">方式一</div>
+		<div class="tab_off"><a href="javascript:showQuarter('2')">方式二</a></div>
+ 
+        <table  width="100%" border="0" cellspacing="0" cellpadding="0" class="edit_main_table">
+  		    <tr>
+  		    <td class="edit_title_td" width="4%"><strong>序号</strong></td>
+            <td class="edit_title_td" width="18%"><strong>被评价部门</strong></td>
+  			        
+ 			<td class="edit_title_td" width="6%"><strong>合计</strong></td>        
+ 			<td class="edit_title_td" width="6%"><strong>部门<br/>最终<br/>成绩</strong></td>        
+ 			<td class="edit_title_td" width="4%"><strong>排名</strong></td>        
+ 
+          </tr>		         
+  			
+ 			<tr>
+            <td class="edit_input_td" align="center" colspan="8">无该季度部门成绩信息</td>
+
+          </tr>	
+ 			                             
+        </table>
+        <!----内容区域 结束---->
+      </div>
+ 
+    </center>
+    <br/>
+    <br/>
+    <br/>
+  </body>
+</html>
+

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrams:Diagrams xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:di="http://www.topcased.org/DI/1.0" xmlns:diagrams="http://www.topcased.org/Diagrams/1.0" xmi:id="_3LpHoShdEeCNiL2qFYJ61Q" activeDiagram="_3LvOQChdEeCNiL2qFYJ61Q">
+  <model href="ExcelImportor.uml#_qb8akM37EdqwVrslYOdUDA"/>
+  <diagrams xmi:id="_3LvOQChdEeCNiL2qFYJ61Q" position="0,0" size="100,100" name="ExcelImportor" viewport="0,0">
+    <property xmi:id="_3koPYChdEeCNiL2qFYJ61Q" key="pageFormatName" value="A4"/>
+    <property xmi:id="_3koPYShdEeCNiL2qFYJ61Q" key="diagramWidth" value="840"/>
+    <property xmi:id="_3koPYihdEeCNiL2qFYJ61Q" key="diagramHeight" value="1188"/>
+    <property xmi:id="_3koPYyhdEeCNiL2qFYJ61Q" key="pageMarginName" value="Small Margin"/>
+    <property xmi:id="_3koPZChdEeCNiL2qFYJ61Q" key="diagramTopMargin" value="20"/>
+    <property xmi:id="_3koPZShdEeCNiL2qFYJ61Q" key="diagramBottomMargin" value="20"/>
+    <property xmi:id="_3koPZihdEeCNiL2qFYJ61Q" key="diagramLeftMargin" value="20"/>
+    <property xmi:id="_3koPZyhdEeCNiL2qFYJ61Q" key="diagramRightMargin" value="20"/>
+    <property xmi:id="_3koPaChdEeCNiL2qFYJ61Q" key="orientation" value="portrait"/>
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_3LvOQShdEeCNiL2qFYJ61Q" presentation="org.topcased.modeler.uml.classdiagram">
+      <element href="ExcelImportor.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+    <contained xsi:type="di:GraphNode" xmi:id="_E5jCECheEeCNiL2qFYJ61Q" position="235,152" size="100,-1">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E5jCESheEeCNiL2qFYJ61Q" presentation="default">
+        <element href="ExcelImportor.uml#_E6sRkCheEeCNiL2qFYJ61Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_E5jCEiheEeCNiL2qFYJ61Q">
+        <property xmi:id="_E5jCEyheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E5jCFCheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_E6sRkCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_E5jCFSheEeCNiL2qFYJ61Q">
+        <property xmi:id="_E5jCFiheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="38"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_E5jCFyheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_E6sRkCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_VfdrcCheEeCNiL2qFYJ61Q" position="234,53" size="184,-1">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_VfdrcSheEeCNiL2qFYJ61Q" presentation="default">
+        <element href="ExcelImportor.uml#_Vfp4sCheEeCNiL2qFYJ61Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_VfdrciheEeCNiL2qFYJ61Q">
+        <property xmi:id="_VfdrcyheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_VfdrdCheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_Vfp4sCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_VfdrdSheEeCNiL2qFYJ61Q">
+        <property xmi:id="_VfdrdiheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="47"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_VfdrdyheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_Vfp4sCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_hTTF4CheEeCNiL2qFYJ61Q" position="22,140" size="172,-1">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_hTTF4SheEeCNiL2qFYJ61Q" presentation="default">
+        <element href="ExcelImportor.uml#_hTiWcCheEeCNiL2qFYJ61Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_hTTF4iheEeCNiL2qFYJ61Q">
+        <property xmi:id="_hTTF4yheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_hTTF5CheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_hTiWcCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_hTTF5SheEeCNiL2qFYJ61Q">
+        <property xmi:id="_hTTF5iheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="38"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_hTTF5yheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_hTiWcCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_yb_FICheEeCNiL2qFYJ61Q" position="564,150" size="100,-1">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_yb_FISheEeCNiL2qFYJ61Q" presentation="default">
+        <element href="ExcelImportor.uml#_ycOVsCheEeCNiL2qFYJ61Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_yb_FIiheEeCNiL2qFYJ61Q">
+        <property xmi:id="_yb_FIyheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_yb_FJCheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_ycOVsCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_yb_FJSheEeCNiL2qFYJ61Q">
+        <property xmi:id="_yb_FJiheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="38"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_yb_FJyheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_ycOVsCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+    </contained>
+    <contained xsi:type="di:GraphNode" xmi:id="_-j3c8CheEeCNiL2qFYJ61Q" position="376,155" size="149,-1">
+      <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_-j3c8SheEeCNiL2qFYJ61Q" presentation="default">
+        <element href="ExcelImportor.uml#_-kDqMCheEeCNiL2qFYJ61Q"/>
+      </semanticModel>
+      <contained xsi:type="di:GraphNode" xmi:id="_-j3c8iheEeCNiL2qFYJ61Q">
+        <property xmi:id="_-j3c8yheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="37"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_-j3c9CheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_-kDqMCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+      <contained xsi:type="di:GraphNode" xmi:id="_-j3c9SheEeCNiL2qFYJ61Q">
+        <property xmi:id="_-j3c9iheEeCNiL2qFYJ61Q" key="eStructuralFeatureID" value="38"/>
+        <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_-j3c9yheEeCNiL2qFYJ61Q" presentation="default">
+          <element href="ExcelImportor.uml#_-kDqMCheEeCNiL2qFYJ61Q"/>
+        </semanticModel>
+      </contained>
+    </contained>
+  </diagrams>
+  <diagrams xmi:id="_RgSP8CjpEeC_HarcGIB44Q" position="0,0" size="100,100" name="useCaseDiagram1" viewport="0,0">
+    <semanticModel xsi:type="di:EMFSemanticModelBridge" xmi:id="_RgSP8SjpEeC_HarcGIB44Q" presentation="org.topcased.modeler.uml.usecasediagram">
+      <element href="ExcelImportor.uml#_qb8akM37EdqwVrslYOdUDA"/>
+    </semanticModel>
+  </diagrams>
+</diagrams:Diagrams>

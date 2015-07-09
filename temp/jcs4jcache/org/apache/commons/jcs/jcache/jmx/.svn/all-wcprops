@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/jmx
+END
+JMXs.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/jmx/JMXs.java
+END
+JCSCacheStatisticsMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/jmx/JCSCacheStatisticsMXBean.java
+END
+ConfigurableMBeanServerIdBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/jmx/ConfigurableMBeanServerIdBuilder.java
+END
+JCSCacheMXBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/jmx/JCSCacheMXBean.java
+END

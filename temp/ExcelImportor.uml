@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_qb8akM37EdqwVrslYOdUDA" name="ExcelImportor">
+  <packagedElement xmi:type="uml:Interface" xmi:id="_E6sRkCheEeCNiL2qFYJ61Q" name="RowVerifier"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Vfp4sCheEeCNiL2qFYJ61Q" name="ExcelImportManager"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_hTiWcCheEeCNiL2qFYJ61Q" name="ExcelSheetReader"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_ycOVsCheEeCNiL2qFYJ61Q" name="DBWriter"/>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_-kDqMCheEeCNiL2qFYJ61Q" name="RowAssembler"/>
+</uml:Model>

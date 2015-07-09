@@ -1,0 +1,104 @@
+<html>
+	<head>
+	<script language="javascript" src="Debug.js"></script>
+		<script language="javascript">
+<!--
+var bInDrag = false;
+var iSplitHeight = 5;
+var iTotalWidth = 500;
+ //D("start");
+function initDrag(obj) {
+	bInDrag = true;
+	obj.setCapture();
+}
+ 
+function freeDrag(obj) {
+	bInDrag = false;
+	obj.releaseCapture();
+}
+ 
+function doDrag() {
+	var iMove = 0;
+	if (bInDrag) {
+		if(document.getElementById('splitLine').style.pixelLeft==0){
+		document.getElementById('splitLine').style.pixelLeft=250;
+		}
+		iMove = event.clientX - document.getElementById('splitLine').style.pixelLeft;
+		d(iMove,'c1','iMove');
+		d(event.clientX,'c7','event.clientX');
+		
+		document.getElementById('left').style.pixelWidth += iMove;
+		document.getElementById('splitLine').style.pixelLeft = document.getElementById('left').style.pixelWidth; - (iSplitHeight/2);
+		document.getElementById('right').style.pixelLeft += iMove;		
+		document.getElementById('right').style.pixelWidth = iTotalWidth - document.getElementById('left').style.pixelWidth;
+		
+		d(document.getElementById('splitLine').style.pixelLeft,'c2','splitLine.pixelLeft');
+		d(document.getElementById('left').style.pixelWidth,'c3','left.pixelWidth');
+		d(document.getElementById('right').style.pixelWidth,'c4','right.pixelWidth');
+		d(document.getElementById('right').style.pixelLeft,'c5','right.pixelLeft');
+		d(document.getElementById('right').style.clientWidth,'c6','right.clientWidth');
+		
+		 
+	}
+}
+function d(info,cn,v){
+	var c=document.getElementById(cn);
+	c.innerText=v+">>"+info;
+}
+-->
+</script>
+		<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+-->
+</style>
+	</head>
+	<body>
+
+		<div id="left" style="float: left; height: 100%; width: 250px">
+			<table width="100%" border="1" height="100%">
+				<tr>
+					<td>
+						<iframe src="http://www.baidu.com" width="100%" height="100%">
+						
+					</td>
+				</tr>
+
+			</table>
+		</div>
+		<div id="splitLine" onmousemove="doDrag();" 
+			onmousedown="initDrag(this);" onmouseup="freeDrag(this);"
+			style="width: 5px; height: 100%; float: left; background: red; cursor: col-resize"></div>
+		<div id="right" style="float: left; height: 100%; width: 250px">
+			<table width="100%" border="1" height="100%">
+				<tr>
+					<td>
+						<select MULTIPLE="MULTIPLE" style="width:100%">
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>
+							
+						</select>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<span id="c1"></span><br>
+		<span id="c2"></span><br>
+		<span id="c3"></span><br>
+		<span id="c4"></span><br>
+		<span id="c5"></span><br>
+		<span id="c6"></span><br>
+		<span id="c7"></span><br>
+		<script>
+			//alert(document.getElementById('right').style.pixelLeft);
+			//d(document.getElementById('right').style.pixelLeft,'c2');
+		</script>
+	</body>
+</html>

@@ -1,0 +1,35 @@
+@CHARSET "gb2312";
+
+
+.nav{
+	text-align:center;
+	font-family: arial,sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	}
+
+.nav_but{
+	background:url("../images/cmcc/b.jpg");
+	width:90px;
+	height:40px;
+	font-color:#5f5b58;
+	}
+	
+.nav_but_sel{
+	background:url("../images/cmcc/y.jpg");
+	width:90px;
+	height:40px;
+	font-color:#9b3435;
+	}
+	
+.nav a:link
+{
+	color: #5f5b58;
+	text-decoration:none;
+}
+.nav a:visited
+{
+	color: #5f5b58;
+	text-decoration: none;
+}
+	

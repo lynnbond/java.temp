@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi
+END
+CacheResolverFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheResolverFactoryImpl.java
+END
+CacheInvocationParameterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheInvocationParameterImpl.java
+END
+CacheRemoveInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheRemoveInterceptor.java
+END
+CacheResultInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheResultInterceptor.java
+END
+CacheInvocationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheInvocationContextImpl.java
+END
+CacheKeyGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheKeyGeneratorImpl.java
+END
+CacheResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheResolverImpl.java
+END
+MakeJCacheCDIInterceptorFriendly.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/MakeJCacheCDIInterceptorFriendly.java
+END
+CacheRemoveAllInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheRemoveAllInterceptor.java
+END
+CachePutInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CachePutInterceptor.java
+END
+CacheMethodDetailsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheMethodDetailsImpl.java
+END
+CDIJCacheHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CDIJCacheHelper.java
+END
+CacheKeyInvocationContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/CacheKeyInvocationContextImpl.java
+END
+GeneratedCacheKeyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/cdi/GeneratedCacheKeyImpl.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache
+END
+JCSEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSEntry.java
+END
+JCSCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCache.java
+END
+NoLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/NoLoader.java
+END
+JCSConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSConfiguration.java
+END
+JCSCachingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingProvider.java
+END
+NoWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/NoWriter.java
+END
+JCSMutableEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSMutableEntry.java
+END
+Times.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/Times.java
+END
+NoFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/NoFilter.java
+END
+Asserts.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/Asserts.java
+END
+JCSListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSListener.java
+END
+TempStateCacheView.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/TempStateCacheView.java
+END
+EvictionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/EvictionListener.java
+END
+JCSCachingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCachingManager.java
+END
+JCSCacheEntryEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/JCSCacheEntryEvent.java
+END
+ImmutableIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/ImmutableIterable.java
+END
+ImmutableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/ImmutableIterator.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1660837/commons/proper/jcs/tags/commons-jcs-2.0-beta-1/commons-jcs-jcache/src/main/java/org/apache/commons/jcs/jcache/Statistics.java
+END
